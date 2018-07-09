@@ -1,10 +1,19 @@
 ﻿  stdafx.cpp
   consoleUtil.cpp
+<<<<<<< HEAD
 c:\users\kbc17b10\downloads\lesson001\lesson001\lesson001\consoleutil.cpp(20): warning C4267: '初期化中': 'size_t' から 'DWORD' に変換しました。データが失われているかもしれません。
+=======
+c:\users\kbc17b10\downloads\testaa\lesson001\consoleutil.cpp(20): warning C4267: '初期化中': 'size_t' から 'DWORD' に変換しました。データが失われているかもしれません。
+>>>>>>> 16ed40a82eb9e0cc6bee207d41749f2eac386b6c
   Lesson001.cpp
   Player.cpp
   Player1.cpp
   Player2.cpp
   コードを生成中...
+<<<<<<< HEAD
   LINK : 前回のインクリメンタル リンクで C:\Users\kbc17b10\Downloads\Lesson001\Lesson001\x64\Debug\Lesson001.exe が見つからなかったか、ビルドされませんでした。フル リンクを行います。
   Lesson001.vcxproj -> C:\Users\kbc17b10\Downloads\Lesson001\Lesson001\x64\Debug\Lesson001.exe
+=======
+  LINK : 前回のインクリメンタル リンクで C:\Users\kbc17b10\Downloads\testAA\x64\Debug\Lesson001.exe が見つからなかったか、ビルドされませんでした。フル リンクを行います。
+  Lesson001.vcxproj -> C:\Users\kbc17b10\Downloads\testAA\x64\Debug\Lesson001.exe
+>>>>>>> 16ed40a82eb9e0cc6bee207d41749f2eac386b6c
